@@ -1,0 +1,15 @@
+{
+  "ano": 2021,
+  "marca": "Chevrolet",
+  "modelo": "Onix",
+  "preco": 68000,
+  "quilometragem": 35000,
+  "cor": "Branco",
+  "descricao": "Chevrolet Onix 1.0 Turbo LTZ 2021, câmbio manual, em perfeito estado, revisado recentemente, pneus novos, único dono. IPVA pago.",
+  "fotos_dir": "C:\\fotos\\onix",
+  "transmissao": "Manual",
+  "combustivel": "Flex/Gasolina",
+  "condicao": "Excelente",
+  "tipo_carroceria": "Hatch",
+  "localizacao": "São Paulo, São Paulo"
+}
